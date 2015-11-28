@@ -1,11 +1,11 @@
 # docker-kannel
 
-[Kannel SMS gateway](http://www.kannel.org/) docker image
+[Kannel SMS gateway](http://www.kannel.org/) docker image.  
 Using sqlbox with postgresql94.
 
 create folder
 
-    Mkdir /opt/dockers
+    mkdir /opt/dockers
 
 then move into it and clone repo into ./kannel
 
